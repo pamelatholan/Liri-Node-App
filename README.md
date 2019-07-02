@@ -5,7 +5,7 @@
 * Command line node app that takes in parameters and gives you back data
     * LIRI will search:
         * Spotify for songs
-            * Enter in terminal: node liri.js spotify-this-song '<song name here>'
+            * Enter in terminal: node liri.js spotify-this-song <'song name here'>
             * Return the following results:
                 * Artist(s)
                 * The song's name
@@ -17,7 +17,7 @@
                 * Venue location
                 * Date of the Event (use moment to format this as "MM/DD/YYYY")
         * OMdB for movies
-            * Enter in terminal: node liri.js movie-this '<movie name here>'
+            * Enter in terminal: node liri.js movie-this <'movie name here'>
                 * Title of the movie.
                 * Year the movie came out.
                 * IMDB Rating of the movie.
