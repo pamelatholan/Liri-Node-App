@@ -3990,3 +3990,455 @@ Language: English, Spanish
 Plot: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
 Actors: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
 *****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Paradiso Noord, Tolhuistuin
+Venue Location: Nieuw-amsterdam
+Date of the Event: 07/03/2019
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Citadelle D'arras
+Venue Location: Arras-en-lavedan
+Date of the Event: 07/05/2019
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Festsaal Kreuzberg
+Venue Location: Berlin
+Date of the Event: 07/08/2019
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Auditorium Stravinski
+Venue Location: Montreux
+Date of the Event: 07/11/2019
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Gunnersbury Park
+Venue Location: London
+Date of the Event: 07/12/2019
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Gunnersbury Park
+Venue Location: London
+Date of the Event: 07/13/2019
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: La Seine Musicale
+Venue Location: Boulogne-billancourt
+Date of the Event: 07/14/2019
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Edgefield
+Venue Location: Portland
+Date of the Event: 07/18/2019
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Capitol Hill (Block Party)
+Venue Location: Seattle
+Date of the Event: 07/20/2019
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Rams Head Live
+Venue Location: Baltimore
+Date of the Event: 07/25/2019
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: U.S. Bank Arena
+Venue Location: Cincinnati
+Date of the Event: 07/26/2019
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: West Riverfront Park
+Venue Location: Detroit
+Date of the Event: 07/27/2019
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: West Riverfront Park
+Venue Location: Detroit
+Date of the Event: 07/28/2019
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Gallagher Way
+Venue Location: Chicago
+Date of the Event: 08/10/2019
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Express Live Parking Lots
+Venue Location: Columbus
+Date of the Event: 08/18/2019
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Ben Franklin Parkway
+Venue Location: Philadelphia
+Date of the Event: 08/31/2019
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Fillmore New Orleans
+Venue Location: New Orleans
+Date of the Event: 09/07/2019
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Fillmore New Orleans
+Venue Location: New Orleans
+Date of the Event: 09/08/2019
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Jannus Live
+Venue Location: St Petersburg
+Date of the Event: 09/10/2019
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 09/11/2019
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Red Hat Amphitheater
+Venue Location: Raleigh
+Date of the Event: 09/13/2019
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Piedmont Park
+Venue Location: Atlanta
+Date of the Event: 09/14/2019
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: The Fillmore Charlotte
+Venue Location: Charlotte
+Date of the Event: 09/15/2019
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Agganis Arena
+Venue Location: Boston
+Date of the Event: 09/17/2019
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 09/18/2019
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: REBEL
+Venue Location: Toronto
+Date of the Event: 09/19/2019
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: Radio City Music Hall
+Venue Location: New York
+Date of the Event: 09/22/2019
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: Radio City Music Hall
+Venue Location: New York
+Date of the Event: 09/24/2019
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: The Anthem
+Venue Location: Washington
+Date of the Event: 09/25/2019
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: The Anthem
+Venue Location: Washington
+Date of the Event: 09/26/2019
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Aragon Ballroom
+Venue Location: Chicago
+Date of the Event: 09/28/2019
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Aragon Ballroom
+Venue Location: Chicago
+Date of the Event: 09/29/2019
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Ryman Auditorium
+Venue Location: Nashville
+Date of the Event: 09/30/2019
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Louisville Palace Theatre
+Venue Location: Louisville
+Date of the Event: 10/02/2019
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Revention Music Center
+Venue Location: Houston
+Date of the Event: 10/04/2019
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: South Side Ballroom
+Venue Location: Dallas
+Date of the Event: 10/05/2019
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Zilker Metropolitan Park
+Venue Location: Austin
+Date of the Event: 10/06/2019
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: The Pageant
+Venue Location: St Louis
+Date of the Event: 10/08/2019
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Armory
+Venue Location: Minneapolis
+Date of the Event: 10/09/2019
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: The Sylvee
+Venue Location: Madison
+Date of the Event: 10/10/2019
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Armory
+Venue Location: Minneapolis
+Date of the Event: 10/11/2019
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Zilker Metropolitan Park
+Venue Location: Austin
+Date of the Event: 10/13/2019
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Fillmore Auditorium
+Venue Location: Denver
+Date of the Event: 10/15/2019
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Fillmore Auditorium
+Venue Location: Denver
+Date of the Event: 10/16/2019
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Hollywood Palladium
+Venue Location: Los Angeles
+Date of the Event: 10/18/2019
+*****************************
+**********EVENT INFO*********
+45
+Name of the Venue: Hollywood Palladium
+Venue Location: Los Angeles
+Date of the Event: 10/20/2019
+*****************************
+**********EVENT INFO*********
+46
+Name of the Venue: Hollywood Palladium
+Venue Location: Los Angeles
+Date of the Event: 10/21/2019
+*****************************
+**********EVENT INFO*********
+47
+Name of the Venue: The Van Buren
+Venue Location: Phoenix
+Date of the Event: 10/23/2019
+*****************************
+**********EVENT INFO*********
+48
+Name of the Venue: Cal Coast Open Air Theater
+Venue Location: San Diego
+Date of the Event: 10/24/2019
+*****************************
+**********EVENT INFO*********
+49
+Name of the Venue: The Chelsea at the Cosmopolitan
+Venue Location: Las Vegas
+Date of the Event: 10/25/2019
+*****************************
+**********EVENT INFO*********
+50
+Name of the Venue: Bill Graham Civic Center
+Venue Location: San Francisco
+Date of the Event: 10/27/2019
+*****************************
+**********EVENT INFO*********
+51
+Name of the Venue: Bill Graham Civic Auditorium
+Venue Location: San Francisco
+Date of the Event: 10/28/2019
+*****************************
+**********SONG INFO*********
+0
+song name: Big in Japan
+preview song: https://p.scdn.co/mp3-preview/537b2ce6aa12eb74d4c1dc050b837726075b223c?cid=3ba65804cc1744839cc89781f34174d8
+album: Forever Young
+artist(s): Alphaville
+*****************************
+**********SONG INFO*********
+1
+song name: Big in Japan - Remaster
+preview song: https://p.scdn.co/mp3-preview/a6d94006db8314a84889043a7a2ae1b218360247?cid=3ba65804cc1744839cc89781f34174d8
+album: Forever Young (Super Deluxe) [Remaster]
+artist(s): Alphaville
+*****************************
+**********SONG INFO*********
+2
+song name: Big in Japan - Best of-Version
+preview song: https://p.scdn.co/mp3-preview/775341bc79f49257f742bcc7afceaab062a3538f?cid=3ba65804cc1744839cc89781f34174d8
+album: First Harvest 1984-1992
+artist(s): Alphaville
+*****************************
+**********SONG INFO*********
+3
+song name: Big In Japan
+preview song: https://p.scdn.co/mp3-preview/78929c1edeedd21870de14a502a63d109bcf4635?cid=3ba65804cc1744839cc89781f34174d8
+album: Mule Variations (Remastered)
+artist(s): Tom Waits
+*****************************
+**********SONG INFO*********
+4
+song name: Big in Japan (Single Version) - Remaster
+preview song: https://p.scdn.co/mp3-preview/1f4b3a24b01024eff0d113395db0a6efc3be148f?cid=3ba65804cc1744839cc89781f34174d8
+album: Forever Young (Super Deluxe) [Remaster]
+artist(s): Alphaville
+*****************************
+**********SONG INFO*********
+5
+song name: Big In Japan
+preview song: null
+album: Changing Of The Seasons
+artist(s): Ane Brun
+*****************************
+**********SONG INFO*********
+6
+song name: Big in Japan
+preview song: https://p.scdn.co/mp3-preview/426d400d7bdfe5ea341b2e1313a923ccbf886c4a?cid=3ba65804cc1744839cc89781f34174d8
+album: Don't Give Me Names
+artist(s): Guano Apes
+*****************************
+**********SONG INFO*********
+7
+song name: Big in Japan
+preview song: https://p.scdn.co/mp3-preview/68047ecf5e45bd0bc4e38bd607be1742d62fd4d4?cid=3ba65804cc1744839cc89781f34174d8
+album: Big in Japan
+artist(s): Ash
+*****************************
+**********SONG INFO*********
+8
+song name: Big In Japan
+preview song: https://p.scdn.co/mp3-preview/e5d078bf21d7be229dc68df5c55051e18ac8e1cf?cid=3ba65804cc1744839cc89781f34174d8
+album: Big In Japan
+artist(s): Martin Solveig
+*****************************
+**********SONG INFO*********
+9
+song name: Big in Japan (feat. Idoling!!!)
+preview song: https://p.scdn.co/mp3-preview/9344c7e4a281a66e3bda5978de2fe7db2aec7987?cid=3ba65804cc1744839cc89781f34174d8
+album: Smash (Deluxe)
+artist(s): Martin Solveig
+*****************************
+**********SONG INFO*********
+10
+song name: Big Dad
+preview song: https://p.scdn.co/mp3-preview/3d13ca94831b9f47dc82edd197e21d851dadb640?cid=3ba65804cc1744839cc89781f34174d8
+album: MAID IN JAPAN
+artist(s): BAND-MAID
+*****************************
+**********SONG INFO*********
+11
+song name: Big In Japan - feat. Idoling!!!
+preview song: https://p.scdn.co/mp3-preview/e5d078bf21d7be229dc68df5c55051e18ac8e1cf?cid=3ba65804cc1744839cc89781f34174d8
+album: Big In Japan (feat. Idoling!!!)
+artist(s): Martin Solveig
+*****************************
+**********SONG INFO*********
+12
+song name: BIG IN JAPAN
+preview song: https://p.scdn.co/mp3-preview/e31d7c967aef38b519995909c8eb86b8f6b3038a?cid=3ba65804cc1744839cc89781f34174d8
+album: SUPER EUROBEAT presents INITIAL D Second Stage 〜D SELECTION 1〜
+artist(s): Robert Patton
+*****************************
+**********SONG INFO*********
+13
+song name: The Answer (feat. Big In Japan (Baltimore))
+preview song: https://p.scdn.co/mp3-preview/b21c4e0cab7cda782a82f0eea062c233afdaacb3?cid=3ba65804cc1744839cc89781f34174d8
+album: Where Did The Night Fall: Another Night Out
+artist(s): UNKLE
+*****************************
+**********SONG INFO*********
+14
+song name: Big in Japan
+preview song: https://p.scdn.co/mp3-preview/64ef993243cc1d115b6152c66ac159ddc375f16d?cid=3ba65804cc1744839cc89781f34174d8
+album: Holy Goo: I
+artist(s): Blue Americans
+*****************************
+**********SONG INFO*********
+15
+song name: Big in Japan
+preview song: https://p.scdn.co/mp3-preview/ebc3e320a687f89b0a773f26fc6859bfeb390b4d?cid=3ba65804cc1744839cc89781f34174d8
+album: Stark Naked and Absolutely Live
+artist(s): Alphaville
+*****************************
+**********SONG INFO*********
+16
+song name: Big in Japan
+preview song: https://p.scdn.co/mp3-preview/4e473b2d8749c8e3aaca823bced13cab770d3eb7?cid=3ba65804cc1744839cc89781f34174d8
+album: The Best and The Lost (T)apes
+artist(s): Guano Apes
+*****************************
+**********SONG INFO*********
+17
+song name: Big In Japan
+preview song: https://p.scdn.co/mp3-preview/2102254fde81c2e61ed38b031457fac2a86e1595?cid=3ba65804cc1744839cc89781f34174d8
+album: Nasty As I Wanna Be
+artist(s): Dirt Nasty
+*****************************
+**********SONG INFO*********
+18
+song name: Big In Japan (Exclusive Techno Bootleg Remix)
+preview song: https://p.scdn.co/mp3-preview/7fd46c9666185ae49fbd30cb22becb0b08ed0d82?cid=3ba65804cc1744839cc89781f34174d8
+album: Best Of 80's Dance
+artist(s): #1 80's Club Hits Remixed
+*****************************
+**********SONG INFO*********
+19
+song name: The Answer (featuring Big In Japan (Baltimore) )
+preview song: https://p.scdn.co/mp3-preview/c98c7d042d68f3a59f5b07df6c3968990d85b885?cid=3ba65804cc1744839cc89781f34174d8
+album: Where Did the Night Fall
+artist(s): UNKLE
+*****************************
