@@ -11,11 +11,17 @@
                 * The song's name
                 * A preview link of the song from Spotify
                 * The album that the song is from
+
+![Spotify-This](https://github.com/pamelatholan/Liri-Node-App/blob/master/images/spotify-this.PNG)
+
         * Bands in Town for concerts
             * Enter in terminal: node liri.js concert-this <artist/band name here>
                 * Name of the venue
                 * Venue location
                 * Date of the Event (use moment to format this as "MM/DD/YYYY")
+
+![Concert-This](https://github.com/pamelatholan/Liri-Node-App/blob/master/images/concert-this.PNG)
+
         * OMdB for movies
             * Enter in terminal: node liri.js movie-this <'movie name here'>
                 * Title of the movie.
@@ -26,6 +32,8 @@
                 * Language of the movie.
                 * Plot of the movie.
                 * Actors in the movie.
+
+![Movie-This](https://github.com/pamelatholan/Liri-Node-App/blob/master/images/movie-this.PNG)
 
 
 * Node packages used:
