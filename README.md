@@ -17,6 +17,7 @@
 
 * Bands in Town for concerts
     * Enter in terminal: node liri.js concert-this <artist/band name here>
+    * Return the following results:
         * Name of the venue
         * Venue location
         * Date of the Event (use moment to format this as "MM/DD/YYYY")
@@ -25,6 +26,7 @@
 
 * OMdB for movies
     * Enter in terminal: node liri.js movie-this <'movie name here'>
+    * Return the following results:
         * Title of the movie.
         * Year the movie came out.
         * IMDB Rating of the movie.
