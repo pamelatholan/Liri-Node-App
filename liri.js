@@ -4,7 +4,6 @@ var keys = require("./keys.js");
 var request = require("request");
 var fs = require("fs");
 var moment = require('moment');
-moment().format();
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 //vars to capture user inputs.
@@ -42,6 +41,8 @@ function showConcertInfo(inputParameter){
     if (!error && response.statusCode === 200) {
         var concerts = JSON.parse(body);
         for (var i = 0; i < concerts.length; i++) {  
+            var datetime = concerts[i].datetime;
+            var dateArr = datetime.split('T');
             console.log("**********EVENT INFO*********");  
             fs.appendFileSync("log.txt", "**********EVENT INFO*********\n");//Append in log.txt file
             console.log(i);
@@ -50,8 +51,8 @@ function showConcertInfo(inputParameter){
             fs.appendFileSync("log.txt", "Name of the Venue: " + concerts[i].venue.name+"\n");
             console.log("Venue Location: " +  concerts[i].venue.city);
             fs.appendFileSync("log.txt", "Venue Location: " +  concerts[i].venue.city+"\n");
-            console.log("Date of the Event: " +  concerts[i].datetime);
-            fs.appendFileSync("log.txt", "Date of the Event: " +  concerts[i].datetime+"\n");
+            console.log("Date of the Event: " + moment(concerts[i].datetime).format('L'));
+            fs.appendFileSync("log.txt", "Date of the Event: " + moment(concerts[i].datetime).format('L') + "\n");
             console.log("*****************************");
             fs.appendFileSync("log.txt", "*****************************"+"\n");
         }
