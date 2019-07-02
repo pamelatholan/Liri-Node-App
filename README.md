@@ -42,3 +42,5 @@
     * Axios
     * Moment
     * DotEnv
+    * Request
+    * fs

@@ -41,8 +41,6 @@ function showConcertInfo(inputParameter){
     if (!error && response.statusCode === 200) {
         var concerts = JSON.parse(body);
         for (var i = 0; i < concerts.length; i++) {  
-            var datetime = concerts[i].datetime;
-            var dateArr = datetime.split('T');
             console.log("**********EVENT INFO*********");  
             fs.appendFileSync("log.txt", "**********EVENT INFO*********\n");//Append in log.txt file
             console.log(i);
