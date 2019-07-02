@@ -288,3 +288,343 @@ Language: English, Spanish
 Plot: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
 Actors: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
 *****************************
+**********MOVIE INFO*********
+Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 91%
+Country of Production: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Plein Air  Rotselaar
+Venue Location: Werchter
+Date of the Event: 2019-06-30T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Paradiso Noord, Tolhuistuin
+Venue Location: Nieuw-amsterdam
+Date of the Event: 2019-07-02T20:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Paradiso Noord, Tolhuistuin
+Venue Location: Nieuw-amsterdam
+Date of the Event: 2019-07-03T20:30:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Citadelle D'arras
+Venue Location: Arras-en-lavedan
+Date of the Event: 2019-07-05T15:30:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Festsaal Kreuzberg
+Venue Location: Berlin
+Date of the Event: 2019-07-08T20:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Auditorium Stravinski
+Venue Location: Montreux
+Date of the Event: 2019-07-11T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Gunnersbury Park
+Venue Location: London
+Date of the Event: 2019-07-12T14:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Gunnersbury Park
+Venue Location: London
+Date of the Event: 2019-07-13T12:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: La Seine Musicale
+Venue Location: Boulogne-billancourt
+Date of the Event: 2019-07-14T23:59:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Edgefield
+Venue Location: Portland
+Date of the Event: 2019-07-18T19:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Capitol Hill (Block Party)
+Venue Location: Seattle
+Date of the Event: 2019-07-20T15:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Rams Head Live
+Venue Location: Baltimore
+Date of the Event: 2019-07-25T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: U.S. Bank Arena
+Venue Location: Cincinnati
+Date of the Event: 2019-07-26T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: West Riverfront Park
+Venue Location: Detroit
+Date of the Event: 2019-07-27T13:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: West Riverfront Park
+Venue Location: Detroit
+Date of the Event: 2019-07-28T13:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Gallagher Way
+Venue Location: Chicago
+Date of the Event: 2019-08-10T15:30:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Express Live Parking Lots
+Venue Location: Columbus
+Date of the Event: 2019-08-18T18:30:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Ben Franklin Parkway
+Venue Location: Philadelphia
+Date of the Event: 2019-08-31T19:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Fillmore New Orleans
+Venue Location: New Orleans
+Date of the Event: 2019-09-07T19:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Fillmore New Orleans
+Venue Location: New Orleans
+Date of the Event: 2019-09-08T19:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Jannus Live
+Venue Location: St Petersburg
+Date of the Event: 2019-09-10T19:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Fillmore Miami Beach at Jackie Gleason Theater
+Venue Location: Miami Beach
+Date of the Event: 2019-09-11T19:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Red Hat Amphitheater
+Venue Location: Raleigh
+Date of the Event: 2019-09-13T19:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Piedmont Park
+Venue Location: Atlanta
+Date of the Event: 2019-09-14T03:30:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: The Fillmore Charlotte
+Venue Location: Charlotte
+Date of the Event: 2019-09-15T19:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: Agganis Arena
+Venue Location: Boston
+Date of the Event: 2019-09-17T19:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-09-18T19:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: REBEL
+Venue Location: Toronto
+Date of the Event: 2019-09-19T19:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Radio City Music Hall
+Venue Location: New York
+Date of the Event: 2019-09-22T20:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Radio City Music Hall
+Venue Location: New York
+Date of the Event: 2019-09-24T19:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: The Anthem
+Venue Location: Washington
+Date of the Event: 2019-09-25T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: The Anthem
+Venue Location: Washington
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Aragon Ballroom
+Venue Location: Chicago
+Date of the Event: 2019-09-28T19:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Aragon Ballroom
+Venue Location: Chicago
+Date of the Event: 2019-09-29T20:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Ryman Auditorium
+Venue Location: Nashville
+Date of the Event: 2019-09-30T19:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Louisville Palace Theatre
+Venue Location: Louisville
+Date of the Event: 2019-10-02T19:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Revention Music Center
+Venue Location: Houston
+Date of the Event: 2019-10-04T20:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: South Side Ballroom
+Venue Location: Dallas
+Date of the Event: 2019-10-05T20:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Zilker Metropolitan Park
+Venue Location: Austin
+Date of the Event: 2019-10-06T12:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: The Pageant
+Venue Location: St Louis
+Date of the Event: 2019-10-08T19:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Armory
+Venue Location: Minneapolis
+Date of the Event: 2019-10-09T19:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: The Sylvee
+Venue Location: Madison
+Date of the Event: 2019-10-10T19:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Armory
+Venue Location: Minneapolis
+Date of the Event: 2019-10-11T20:00:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Zilker Metropolitan Park
+Venue Location: Austin
+Date of the Event: 2019-10-13T12:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Fillmore Auditorium
+Venue Location: Denver
+Date of the Event: 2019-10-15T19:00:00
+*****************************
+**********EVENT INFO*********
+45
+Name of the Venue: Fillmore Auditorium
+Venue Location: Denver
+Date of the Event: 2019-10-16T19:00:00
+*****************************
+**********EVENT INFO*********
+46
+Name of the Venue: Hollywood Palladium
+Venue Location: Los Angeles
+Date of the Event: 2019-10-18T19:00:00
+*****************************
+**********EVENT INFO*********
+47
+Name of the Venue: Hollywood Palladium
+Venue Location: Los Angeles
+Date of the Event: 2019-10-20T19:30:00
+*****************************
+**********EVENT INFO*********
+48
+Name of the Venue: Hollywood Palladium
+Venue Location: Los Angeles
+Date of the Event: 2019-10-21T19:30:00
+*****************************
+**********EVENT INFO*********
+49
+Name of the Venue: The Van Buren
+Venue Location: Phoenix
+Date of the Event: 2019-10-23T19:00:00
+*****************************
+**********EVENT INFO*********
+50
+Name of the Venue: Cal Coast Open Air Theater
+Venue Location: San Diego
+Date of the Event: 2019-10-24T19:00:00
+*****************************
+**********EVENT INFO*********
+51
+Name of the Venue: The Chelsea at the Cosmopolitan
+Venue Location: Las Vegas
+Date of the Event: 2019-10-25T19:00:00
+*****************************
+**********EVENT INFO*********
+52
+Name of the Venue: Bill Graham Civic Center
+Venue Location: San Francisco
+Date of the Event: 2019-10-27T19:00:00
+*****************************
+**********EVENT INFO*********
+53
+Name of the Venue: Bill Graham Civic Auditorium
+Venue Location: San Francisco
+Date of the Event: 2019-10-28T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Kung Fu Necktie
+Venue Location: Philadelphia
+Date of the Event: 2019-07-13T22:00:00
+*****************************
