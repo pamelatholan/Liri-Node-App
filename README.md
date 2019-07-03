@@ -40,11 +40,11 @@
 
 * If no movie is specified, Mr. Nobody results will return:
 
-
+![No-Entry](https://github.com/pamelatholan/Liri-Node-App/blob/master/images/nomovie.PNG)
 
 * Terminal command do-what-it-says will return results for song "I Want It That Way" as specified in the random.txt file:
 
-
+![What-It-Says](https://github.com/pamelatholan/Liri-Node-App/blob/master/images/dowhatitsays.PNG)
 
 
 * Node packages used:
