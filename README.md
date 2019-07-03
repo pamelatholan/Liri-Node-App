@@ -38,6 +38,14 @@
 
 ![Movie-This](https://github.com/pamelatholan/Liri-Node-App/blob/master/images/movie-this.PNG)
 
+* If no movie is specified, Mr. Nobody results will return:
+
+
+
+* Terminal command do-what-it-says will return results for song "I Want It That Way" as specified in the random.txt file:
+
+
+
 
 * Node packages used:
     * Node-Spotify-API
