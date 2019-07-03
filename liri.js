@@ -33,7 +33,7 @@ function UserInputs (userOption, inputParameter){
     }
 }
 
-//Funtion for Concert Info: Bands in Town
+//Function for Concert Info: Bands in Town
 function showConcertInfo(inputParameter){
     var queryUrl = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
     request(queryUrl, function(error, response, body) {
@@ -59,7 +59,7 @@ function showConcertInfo(inputParameter){
     }
 });}
 
-//Funtion for Music Info: Spotify
+//Function for Music Info: Spotify
 function showSongInfo(inputParameter) {
     if (inputParameter === undefined) {
         inputParameter = "I Want It That Way"; //default Song
@@ -96,7 +96,7 @@ function showSongInfo(inputParameter) {
     );
 };
 
-//Funtion for Movie Info: OMDB
+//Function for Movie Info: OMDB
 function showMovieInfo(inputParameter){
     if (inputParameter === undefined) {
         inputParameter = "Mr. Nobody"
